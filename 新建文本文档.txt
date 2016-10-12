@@ -1,0 +1,40 @@
+limit分页查询
+模糊查询解决方案    
+input hidden 解决详情问题
+getparameter 解决详情问题
+通过window.localaction.href="xxx.action?id=?"吧id值传到后台
+a标签解决方案：<a href="modify.action?user.id=<s:property value="id"/>">修改</a>
+数据库存储图片和数据库图片展示问题  ？
+1.jquery插件        正在    easyui（分页+拖拽+导航）+ajax
+2.java报表          正在
+3.bootstrap        最后学
+4.date日期输出   已解决
+5.select          
+6.jquery(js)+ajax   正在
+7.冒泡事件理解？ 阻止冒泡：1.preventDeafult()函数  解除浏览器默认事件 
+                           2.stopPropagation() 防止事件冒泡到DOM树上，也就是不触发的任何前辈元素上的事件处理函数
+                           3.bind绑定
+8.闭包   闭包后，里面的变量就相当于局部了
+9.命名空间
+
+若要提交第一个表单但又不想使用 submit() 函数trigger（）
+
+
+
+
+jquery做东西
+学习js
+easyui
+bootstrap
+
+1.介绍论文；
+2.沟通马老师，花钱；
+
+
+项目部署到git上
+
+
+limit分页注意事项：
+  首先是js获取每页记录数，获取当前页数（点击下一页即当前页数加一再次跳转action pagebean改变limit，），当前页面开始的记录数start
+    
+
