@@ -1,0 +1,6 @@
+{
+  "name": "Wgdcode.GitHub.io",
+  "tagline": "",
+  "body": "﻿# wgdcode.github.io\r\nGithub wgd的个人博客\r\n2016年总结\r\n今年学习的内容：\r\n1.nodejs基础语法，准备动手做一个项目，数据库才连接成功。\r\n2.jsp，servlet学习掌握了很多内容，教课的老师也很好。\r\n3.struts2机制理解的更加深刻\r\n4.jquery--基于js的框架，让前段开发更加愉快。\r\n5.bootstrap  css的框架美观，但是加载速度慢，主要是自适应\r\n6.ajax传输（servlet，struts2）但是传输机制还是不太明白\r\n7.android 一直在学控件感觉没什么用\r\n8.oc 学习基础语法，老师讲得不好，自己也不想听\r\n9.ps，ai老师讲得好，但是没有美术细胞，很难做的好\r\n接下来的收尾工作：\r\n1.学习struts2的拦截器\r\n2.看linux（鸟叔的私房菜），写一些有小项目代码（贪吃蛇，斗地主）\r\n3.学习代理机制\r\n4.弄清楚ajax传输机制（主要是struts2的配置）\r\n5.学习html5 canvs等买本书\r\n6.学习python\r\n7.spring+hibernate（入门）+mybitys+meavn     视频学习",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
